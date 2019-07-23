@@ -1,8 +1,4 @@
+﻿t1
 t1
-t1
-<<<<<<< HEAD
 t1
 devlop
-=======
-t1
->>>>>>> ea3bfaa2910cec19776ba0d6b6fdaa039bd5dde8
